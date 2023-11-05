@@ -1,0 +1,3 @@
+what is Kubernetes Daemon Sets?
+  * Kubernetes Deamon Set ensures that copy of pods is running on every single node.
+  * Whenever new node gets added to the kubernetes cluster, a copy of an pod is being deployed on that node.
