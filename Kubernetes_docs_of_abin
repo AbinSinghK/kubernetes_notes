@@ -1,3 +1,12 @@
+
 what is Kubernetes Daemon Sets?
   * Kubernetes Deamon Set ensures that copy of pods is running on every single node.
   * Whenever new node gets added to the kubernetes cluster, a copy of an pod is being deployed on that node.
+
+What is Secrets?
+
+  * Secrets is for Storing Sensitive data of an application in an central place For accessing it anytime.
+  * This prevents the sensitive data from being hardcoded.
+  * Like secrets other platforms available for storing sensitive data's are 
+                 - AWS secretmanager
+                 - Terraform Vault
